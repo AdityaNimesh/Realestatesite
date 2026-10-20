@@ -1,4 +1,4 @@
-# RealEstateApp
+# RealEstateSite
 
 A modern, responsive real estate application built with Next.js and Tailwind CSS. This application provides a comprehensive platform for browsing properties, connecting with real estate agents, and managing the home buying/selling process.
 
